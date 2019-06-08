@@ -1,0 +1,4 @@
+<vector xmlns="http://www.w3.org/2000/svg"
+        xmlns:xlink="http://www.w3.org/1999/xlink"
+        width="85" height="85" viewBox="0 0 85 85">
+    <defs><style>.a,.b{fill:none;}.b{stroke:#bbb;stroke-width:0.5px;}.c{clip-path:url(#a);}.d{fill:#bdbdbd;}.e{stroke:none;}</style><clipPath id="a"><rect class="a" width="21" height="21" transform="translate(130 346)"/></clipPath></defs><g transform="translate(-99 -312)"><g class="b" transform="translate(99 312)"><rect class="e" width="85" height="85"/><rect class="a" x="0.25" y="0.25" width="84.5" height="84.5"/></g><g class="c" transform="translate(1 -2)"><path class="d" d="M.572,8.546a.567.567,0,0,1-.564-.572A.56.56,0,0,1,.572,7.41H7.41V.572A.575.575,0,0,1,7.982,0a.567.567,0,0,1,.564.572V7.41h6.838a.567.567,0,0,1,.572.564.574.574,0,0,1-.572.572H8.546v6.838a.567.567,0,0,1-.564.572.574.574,0,0,1-.572-.572V8.546Z" transform="translate(132.732 348.744)"/></g></g></vector>

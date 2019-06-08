@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+        android:id="@+id/rv_container_product_list"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+>
+    <ImageView
+            android:src="@drawable/heart"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:id="@+id/rv_img_product_review"/>
+    <LinearLayout
+            android:paddingLeft="15dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+
+    >
+
+        <LinearLayout
+
+                android:layout_marginTop="20dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+        <TextView
+
+                android:id="@+id/rv_txt_title_review"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:paddingRight="25dp"
+                android:text="작풉명"
+                />
+
+            <TextView
+                    android:id="@+id/rv_txt_date_review"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="#3000"
+                    android:text="날짜"
+                    />
+
+        </LinearLayout>
+
+            <TextView
+                    android:id="@+id/rv_txt_content_review"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingTop="10dp"
+                    android:text="조회수 13만회"
+                    android:paddingRight="15dp"/>
+
+
+
+
+
+
+    </LinearLayout>
+
+
+
+</LinearLayout>
